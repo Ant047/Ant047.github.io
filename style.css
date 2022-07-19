@@ -1,0 +1,25 @@
+
+div {
+  overflow: auto;
+}
+
+body{
+	background-color:black;
+	color:white;
+	padding;10px;
+}
+#image{
+	float:left;
+	}
+
+#description{
+	position:absolute;
+	float:bottom;
+	bottom:400px;
+	right:300px;
+	}
+	
+.gameFeatures{
+	position:absolute
+	bottom:0px;
+	}
